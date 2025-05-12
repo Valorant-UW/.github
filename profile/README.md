@@ -1,12 +1,16 @@
-## Hi there 👋
+# Valorant @ UW RSO
 
-<!--
+[discord-url]
+[instagram-url]
+[linkedin-url]
+[email-url]
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## About Valorant @ UW 
+
+This organization is a community of people who enjoy Valorant. As one of UW's largest single video game communities, we cater to both competitive and casual players. We host events such as simple and competitive tournaments, watch parties, coaching workshops, and more! We welcome anyone who would like to play with other gamers from the school to improve or just have a good time. This is the place to come if you're interested in anything Valorant-related.
+
+[email-url]: mailto:valorant@uw.edu
+[discord-url]: https://discord.com/invite/XGFnNXu
+[instagram-url]: https://www.instagram.com/swecc.uw/](https://www.instagram.com/valorant_uw/
+[linkedin-url]: https://www.linkedin.com/company/valorant-uw/
